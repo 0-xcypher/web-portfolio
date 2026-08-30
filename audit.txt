@@ -1,0 +1,20 @@
+Web Portfolio Design and Accessibility Audit
+
+Task 1: Design and Usability Audit
+
+1. Is my navigation menu clear and easy to find on every page?
+   Yes. The navigation menu is clearly displayed on every page and provides links to Home, Projects, and Contact.
+
+2. Is there a clear visual hierarchy?
+   Yes. The h1 headings are larger than the h2 headings, making the most important headings easier to recognize.
+
+3. Is the text easy to read?
+   Yes. The website uses readable font sizes, spacing, and good contrast between the text and background.
+
+Task 2: Accessibility Check
+
+1. Image Alt Attributes
+   Yes. I checked all images and made sure every image has a descriptive alt attribute.
+
+2. Contact Form Labels
+   Yes. I checked the contact form and made sure each label's for attribute matches the id of its input or textarea.
